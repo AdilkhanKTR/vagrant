@@ -1,4 +1,4 @@
-####Install Vagrant & Docker
+# Install Vagrant & Docker
 
 ```sudo yum install -y yum-utils
    sudo yum-config-manager \
