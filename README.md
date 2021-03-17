@@ -1,6 +1,6 @@
 # Install Vagrant & Docker
 
-Docker instalation steps:
+# Docker instalation steps:
 
 ```
 sudo yum install -y yum-utils
